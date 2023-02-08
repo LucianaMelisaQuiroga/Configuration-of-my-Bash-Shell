@@ -1,4 +1,5 @@
 # Estilo a mi terminal ![shell](https://img.shields.io/badge/Shell-Bash-blue)
+***
 
 * Máquina Virtual: Oracle VM VirtualBox
 * S.O.: Linux
@@ -53,3 +54,4 @@ OSH_THEME="powerline"
 Salir de la terminal y reingresar 
 
 ### Resultado
+<img src="mibash_estilo.jpg" alt="Imagen de resultado">
